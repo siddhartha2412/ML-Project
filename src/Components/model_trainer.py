@@ -1,0 +1,1 @@
+"""Model Trainer : This module is responsible for training machine learning models using the processed data.Evaluation and selection of the best model based on performance metrics are also handled here."""
