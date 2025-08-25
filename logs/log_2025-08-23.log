@@ -1,0 +1,10 @@
+[2025-08-23 12:34:38,947] INFO - This is an info message from test_logger.py
+[2025-08-23 12:39:48,422] INFO - This is an info message from test_logger.py
+[2025-08-23 13:10:09,751] INFO - Starting division tests.
+[2025-08-23 13:10:09,753] ERROR - An unexpected error occurred: division by zero
+[2025-08-23 13:10:09,753] ERROR - CustomException caught in main: Error in C:\Users\HP\OneDrive\Desktop\ML Project\testing.py , line 7 : An unexpected error occurred during division.
+[2025-08-23 16:07:13,248] INFO - Entered the data ingestion method or component
+[2025-08-23 16:07:13,264] INFO - Read the dataset as dataframe
+[2025-08-23 16:07:13,282] INFO - Train test split initiated
+[2025-08-23 16:07:13,309] INFO - Ingestion of the data is completed
+

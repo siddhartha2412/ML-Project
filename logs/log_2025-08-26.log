@@ -1,0 +1,38 @@
+[2025-08-26 01:13:36,536] INFO - Starting data ingestion...
+[2025-08-26 01:36:29,982] INFO - Pipeline started.
+[2025-08-26 01:36:29,982] INFO - Starting data ingestion...
+[2025-08-26 01:36:29,983] INFO - Using raw data file: C:\Users\HP\OneDrive\Desktop\ML_Project\raw data\customer_clv_data.csv
+[2025-08-26 01:36:30,079] INFO - Data ingestion completed successfully.
+[2025-08-26 01:36:30,127] INFO - Read train and test data completed
+[2025-08-26 01:36:30,127] INFO - Categorical columns: ['Gender', 'IncomeLevel', 'Location', 'Churned']
+[2025-08-26 01:36:30,127] INFO - Numerical columns: ['Age', 'PurchaseFrequency', 'AvgOrderValue', 'RecencyDays', 'TenureDays']
+[2025-08-26 01:36:30,135] INFO - Applying preprocessing object on training and testing data.
+[2025-08-26 01:36:30,186] INFO - Saved preprocessing object.
+[2025-08-26 01:36:30,186] INFO - Split training and test input data
+[2025-08-26 01:37:55,584] INFO - Best model: CatBoosting Regressor | Score: 0.9886244698415482
+[2025-08-26 01:37:55,602] INFO - Pipeline completed successfully.
+[2025-08-26 01:47:00,893] INFO - Loading model and preprocessor for predictions...
+[2025-08-26 01:50:02,319] INFO - Pipeline started.
+[2025-08-26 01:50:02,319] INFO - Starting data ingestion...
+[2025-08-26 01:50:02,320] INFO - Using raw data file: C:\Users\HP\OneDrive\Desktop\ML_Project\raw data\customer_clv_data.csv
+[2025-08-26 01:50:02,366] INFO - Data ingestion completed successfully.
+[2025-08-26 01:50:02,410] INFO - Read train and test data completed
+[2025-08-26 01:50:02,410] INFO - Categorical columns: ['Gender', 'IncomeLevel', 'Location', 'Churned']
+[2025-08-26 01:50:02,410] INFO - Numerical columns: ['Age', 'PurchaseFrequency', 'AvgOrderValue', 'RecencyDays', 'TenureDays']
+[2025-08-26 01:50:02,413] INFO - Applying preprocessing object on training and testing data.
+[2025-08-26 01:50:02,452] INFO - Saved preprocessing object.
+[2025-08-26 01:50:02,453] INFO - Split training and test input data
+[2025-08-26 01:50:31,444] INFO - Loading model and preprocessor for predictions...
+[2025-08-26 01:54:11,251] INFO - Pipeline started.
+[2025-08-26 01:54:11,251] INFO - Starting data ingestion...
+[2025-08-26 01:54:11,252] INFO - Using raw data file: C:\Users\HP\OneDrive\Desktop\ML_Project\raw data\customer_clv_data.csv
+[2025-08-26 01:54:11,303] INFO - Data ingestion completed successfully.
+[2025-08-26 01:54:11,346] INFO - Read train and test data completed
+[2025-08-26 01:54:11,347] INFO - Categorical columns: ['Gender', 'IncomeLevel', 'Location', 'Churned']
+[2025-08-26 01:54:11,347] INFO - Numerical columns: ['Age', 'PurchaseFrequency', 'AvgOrderValue', 'RecencyDays', 'TenureDays']
+[2025-08-26 01:54:11,349] INFO - Applying preprocessing object on training and testing data.
+[2025-08-26 01:54:11,383] INFO - Saved preprocessing object.
+[2025-08-26 01:54:11,384] INFO - Split training and test input data
+[2025-08-26 01:55:32,950] INFO - Best model: CatBoosting Regressor | Score: 0.9886244698415482
+[2025-08-26 01:55:32,960] INFO - Pipeline completed successfully.
+[2025-08-26 01:56:19,075] INFO - Loading model and preprocessor for predictions...
